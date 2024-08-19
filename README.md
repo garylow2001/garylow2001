@@ -7,7 +7,7 @@
     - LinkedIn: https://www.linkedin.com/in/garylowbs/
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=garylow2001&theme=aura&show_icons=true&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garylow2001&theme=aura&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garylow2001&theme=aura&layout=donut)
 
 <!---
 garylow2001/garylow2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
