@@ -7,6 +7,7 @@
     - LinkedIn: https://www.linkedin.com/in/garylowbs/
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=garylow2001&theme=aura&show_icons=true&hide=stars)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garylow2001&theme=aura&layout=donut)
 
 <!---
