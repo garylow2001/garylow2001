@@ -1,6 +1,6 @@
 - 👋 Hey everyone, I’m Gary Low (@garylow2001)
 - 🖥️ NUS CS '26.
-- 💼 Ant International [Ex: Paypal, Hypotenuse AI, Pensees]
+- 💼 (Incoming) Paypal [Ex: Ant International, Paypal, Hypotenuse AI, Pensees]
 - 📫 How to reach me:
     - Email: garylow2001@gmail.com
     - LinkedIn: https://www.linkedin.com/in/garylowbs/
